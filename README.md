@@ -6,18 +6,18 @@
 
 <img src="bootstrap.png" width="100%">
 
-# start bootstrap 
+# Start Bootstrap 
 
-> structure
+> ## How to setup
 
-> Layout
+> ## structure
 
-> Content
+> ## Layout
 
-> Forms
+> ## Content
 
-> Component
+> ## Forms
 
+> ## Component
 
-framework Tricks 
 
