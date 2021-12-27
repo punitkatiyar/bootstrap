@@ -10,7 +10,7 @@
 
 > ## How to setup
 
-> ## structure
+> ## Structure
 
 > ## Layout
 
