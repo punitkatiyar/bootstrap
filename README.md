@@ -12,6 +12,11 @@
 
 > ## How to setup
 
+<ul>
+  <li>Offline setup</li>
+  <li>Online setup</li>
+</ul>
+
 > ## Structure
 
 > ## Layout
