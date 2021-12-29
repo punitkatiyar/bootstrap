@@ -8,8 +8,6 @@
 
 <img src="bootstrap.png" width="100%">
 
-# Start Bootstrap 
-
 ## How to setup
 
 <ul>
