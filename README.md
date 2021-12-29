@@ -10,16 +10,22 @@
 
 # Start Bootstrap 
 
-> ## How to setup
+## How to setup
 
 <ul>
   <li>Offline setup</li>
   <li>Online setup</li>
 </ul>
 
-> ## Structure
+## Layout
 
-> ## Layout
+<ul>
+  <li>container-fluid</li>
+  <li>container</li>
+  <li>row</li>
+  <li>col</li>
+</ul>  
+
 
 > ## Content
 
